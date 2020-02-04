@@ -2,7 +2,7 @@
 users:
   - name: 205-user1
     aws_groups: "sacramento, fresno, indio"
-  - name: 105-user2
+  - name: 205-user2
     aws_groups: "losangeles, sanfrancisco, napa"
   - name: 205-user3
     aws_groups: "palmsprings, indio, sandiego"
